@@ -31,3 +31,5 @@ Para trabajar con el diseñador gráfico de interfaces, descargue QtDesigner des
 Para un mejor entorno de desarrollo, se recomienda instalar Visual Studio Code. No es necesario ejecutarlo en modo administrador.
 
 🔗 Descargar Visual Studio Code
+
+
